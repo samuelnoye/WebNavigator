@@ -1,4 +1,4 @@
-const Stack = require('./Stack.js');
+const Stack = require('./stack.js');
 const prompt = require('prompt-sync')();
 // ------------------------------
 // Initialization
